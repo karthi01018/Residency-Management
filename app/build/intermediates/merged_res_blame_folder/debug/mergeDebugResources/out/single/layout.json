@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_profile.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_register.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_restaurant.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_restaurant.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/toolbar.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_splashscreen.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_home.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_rooms.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_rooms.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-mergeDebugResources-52:/layout/activity_event.xml",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_event.xml"
+    }
+]

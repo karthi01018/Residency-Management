@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_image2.jpg.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/image2.jpg"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_splash.jpg.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/splash.jpg"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_splashscreen.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_baseline_remove_red_eye_24.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_baseline_phone_24.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_profile.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_event.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_event.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_image1.jpg.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/image1.jpg"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_register.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_toolbar.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_restaurant.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_restaurant.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_home.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_hpic.jpeg.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/hpic.jpeg"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.residency_management.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.residency_management.app-debug-53:/layout_activity_rooms.xml.flat",
+        "source": "com.example.residency_management.app-main-55:/layout/activity_rooms.xml"
+    }
+]

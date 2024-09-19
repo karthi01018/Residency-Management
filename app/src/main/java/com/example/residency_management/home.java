@@ -11,6 +11,12 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.denzcoskun.imageslider.ImageSlider;
+import com.denzcoskun.imageslider.constants.ScaleTypes;
+import com.denzcoskun.imageslider.models.SlideModel;
+
+import java.util.ArrayList;
+
 public class home extends AppCompatActivity {
 ImageView usericon;
 ImageView menuicon;
@@ -33,5 +39,10 @@ ImageView menuicon;
                 startActivity(in);
             }
         });
+        /*ImageSlider imageSlider=findViewById(R.id.imageSlider);
+        ArrayList<SlideModel> slideModels=new ArrayList<>();
+        slideModels.add(new SlideModel(R.drawable.image1, ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.image2, ScaleTypes.FIT));
+        imageSlider.setImageList(slideModels,ScaleTypes.FIT);*/
     }
 }

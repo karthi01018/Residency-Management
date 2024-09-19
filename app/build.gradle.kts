@@ -49,6 +49,6 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
-    implementation("com.google.android.gms:play-services-auth:21.2.0")
+    implementation("com.github.denzcoskun:ImageSlideshow:0.1.0")
 
 }
